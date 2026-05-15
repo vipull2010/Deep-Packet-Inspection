@@ -2,7 +2,7 @@
 
 
 DPI Engine - Java Port
-A complete Java port of the C++ Deep Packet Inspection engine.
+A complete Java port of  Deep Packet Inspection engine.
 Reads `.pcap` files, classifies traffic by application via TLS SNI extraction,
 and can block/filter specific apps, IPs, or domains.
 Requirements
